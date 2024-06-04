@@ -6,7 +6,7 @@
 
 ## Assignment: Final-Project
 
-The final part of your experiment, here you can go through your collected data and form ways of analyzing it 
+The final part of your experiment, here you can go through your collected data and form ways of analyzing it. The methods you develop here will be used in your final presentation and paper!
 
 ## Working Remotely VS on Your Machine
 
